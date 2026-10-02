@@ -26,6 +26,7 @@
 ## World
 
 - Dumb Enemy
+- Skip Dialog
 - Freeze Enemy
 - Instant Win
 - Anti Game Over
@@ -36,6 +37,8 @@
 
 ## Visuals
 
+- Hide ID
+- Profile Editor
 - Skin Unlocker
 - FPS Indicator
 - Currency Modifier
@@ -52,7 +55,6 @@
 
 ## WIP (Work in Progress)
 
-- Skip Dialog
 - Hide UI
 - Atk Multiplier
 - Fast Attack
